@@ -2,7 +2,7 @@
 A gateway for blind/visually impaired people to experience the world independently through computer vision.
 
 ## Tech Stack
-- ML Kit
+- MLKit
 - TuneStudio
 - Cerebras/LLama 3.1
 - Android Studio
@@ -19,9 +19,9 @@ Best DEI Hack
 
 
 ## Members
-| Name             | GitHub Username | Email                      |
-| ---------------- | --------------- | -------------------------- |
-| Nachu Annamalai  | nachuannamalai  | nachuannamalai7@gmail.com  |
-| Olivia Liu       | olivia-create   | smilinglxh1211@163.com     | 
-| Meghana Madiraju | MeghanaM4       | meghanaamadiraju@gmail.com |
-| Diya Shah        | ddiyas          | diya.kshah@gmail.com       |
+| Name                 | GitHub Username | Email                      |
+| -------------------- | --------------- | -------------------------- |
+| Nachammai Annamalai  | nachuannamalai  | nachuannamalai7@gmail.com  |
+| Olivia Liu           | olivia-create   | smilinglxh1211@163.com     | 
+| Meghana Madiraju     | MeghanaM4       | meghanaamadiraju@gmail.com |
+| Diya Shah            | ddiyas          | diya.kshah@gmail.com       |
