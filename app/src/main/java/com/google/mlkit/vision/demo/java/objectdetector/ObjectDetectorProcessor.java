@@ -33,6 +33,7 @@ import java.util.List;
 public class ObjectDetectorProcessor extends VisionProcessorBase<List<DetectedObject>> {
 
   private static final String TAG = "ObjectDetectorProcessor";
+  private List<DetectedObject> detectedObjects;
 
   private final ObjectDetector detector;
 
@@ -53,8 +54,8 @@ public class ObjectDetectorProcessor extends VisionProcessorBase<List<DetectedOb
   }
 
   @Override
-  protected void onSuccess(
-      @NonNull List<DetectedObject> results, @NonNull GraphicOverlay graphicOverlay) {
+  protected void onSuccess(@NonNull List<DetectedObject> results, @NonNull GraphicOverlay graphicOverlay) {
+    this.detectedObjects = results;
     for (DetectedObject object : results) {
       graphicOverlay.add(new ObjectGraphic(graphicOverlay, object));
     }
