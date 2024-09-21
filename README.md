@@ -1,6 +1,4 @@
-# PennApps XXV
-
-## Optica
+# Optica
 A gateway for blind/visually impaired people to experience the world independently through computer vision.
 
 ## Tech Stack
@@ -11,11 +9,12 @@ A gateway for blind/visually impaired people to experience the world independent
 - Android Studio
 - Java
 
-## Tracks
+## Made for PennApps XXV
+**Tracks**
 Best Community Impact Hack, Best Use of Computer Vision, Best Use of AI, Super Fast AI Track, Best Next-Gen LLM-Powered Application, Best DEI Hack
 
 
-**Members:**
+## Members
 | Name             | GitHub Username |
 | ---------------- | --------------- |
 | Nachu Annamalai  | nachuannamalai  |
