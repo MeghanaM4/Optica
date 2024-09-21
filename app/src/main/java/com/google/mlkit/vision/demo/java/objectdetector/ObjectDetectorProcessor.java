@@ -37,6 +37,10 @@ public class ObjectDetectorProcessor extends VisionProcessorBase<List<DetectedOb
 
   private final ObjectDetector detector;
 
+  public List<DetectedObject> getDetectedObject() {
+    return detectedObjects;
+  }
+  
   public ObjectDetectorProcessor(Context context, ObjectDetectorOptionsBase options) {
     super(context);
     detector = ObjectDetection.getClient(options);
