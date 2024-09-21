@@ -5,7 +5,7 @@ fetch("https://proxy.tune.app/chat/completions", {
     "Authorization": "sk-tune-x8Pz3FbV3HUWFpy6RKiq83NMVqPLFlCqaYn",
   },
   body: JSON.stringify({
-    temperature: 1.01, 
+    temperature: 1.00, 
     messages:  [
   {
     "role": "system",
@@ -22,7 +22,6 @@ fetch("https://proxy.tune.app/chat/completions", {
 ],
     model: "MeghanaM4/Optica",
     stream: false,
-    "frequency_penalty":  0.01,
     "max_tokens": 50
   })
 })
