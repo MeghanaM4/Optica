@@ -9,8 +9,6 @@ import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
 
-    EditText Text;
-    Button btnText;
     TextToSpeech textToSpeech;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -28,16 +26,8 @@ public class MainActivity extends AppCompatActivity {
                 // if No error is found then only it will run
                 if(i!=TextToSpeech.ERROR){
                     // To Choose language of speech
-                    textToSpeech.setLanguage(Locale.UK);
+                    textToSpeech.setLanguage(Locale.US);
                 }
-            }
-        });
-
-        // Adding OnClickListener
-        btnText.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                textToSpeech.speak(Text.getText().toString(),TextToSpeech.QUEUE_FLUSH,null);
             }
         });
 
