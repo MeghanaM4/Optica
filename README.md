@@ -1,2 +1,2 @@
 # Optica
-braile 2.0
+Nachu Annamalai, Olivia Liu, Meghana Madiraju, Diya Shah
