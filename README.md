@@ -9,7 +9,7 @@ A gateway for blind/visually impaired people to experience the world independent
 - Java  
 
 ## Made for PennApps XXV
-**Tracks:**
+**Tracks:**       
 Best Community Impact Hack    
 Best Use of Computer Vision   
 Best Use of AI    
