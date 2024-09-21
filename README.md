@@ -19,9 +19,9 @@ Best DEI Hack
 
 
 ## Members
-| Name             | GitHub Username |
-| ---------------- | --------------- |
-| Nachu Annamalai  | nachuannamalai  |
-| Olivia Liu       | olivia-create   |
-| Meghana Madiraju | MeghanaM4       |
-| Diya Shah        | ddiyas          |
+| Name             | Email                      | GitHub Username |
+| ---------------- | -------------------------- |--------------- |
+| Nachu Annamalai  | nachuannamalai7@gmail.com  | nachuannamalai  |
+| Olivia Liu       | smilinglxh1211@163.com     | olivia-create   |
+| Meghana Madiraju | meghanaamadiraju@gmail.com | MeghanaM4       |
+| Diya Shah        | diya.kshah@gmail.com       | ddiyas          |
